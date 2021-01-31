@@ -11,7 +11,7 @@ do
 
 	printf "%b\n" "1. MAC Address Changer"
 	printf "%b\n" "2. Network Scanner"
-	printf "%b\n" "3. Port Scanner"
+	printf "%b\n" "3. Packet Sniffer"
 	printf "%b\n" "4. File Interceptor"
 	printf "%b\n" "5. Vulnerability Scanner"
 	printf "%b\n" "6. Update Net-mon"
